@@ -1,0 +1,36 @@
+.nav{
+    background-color: rgb(29, 29, 29);
+    height: 40px;
+    width: 100%;
+    position:  fixed;
+    align-items: center;
+    margin: 85px 0px;
+    z-index: 99999999;
+}
+.nav-menu{
+    display: flex;
+    align-items: center;
+}
+.nav-menu li{
+    display: inline-block;
+    padding: 0px 2px;
+}
+.nav li a{
+    color: white;
+    font-size: 16px;
+    border: 1px solid rgb(29, 29, 29);
+    padding: 2px 10px;
+    font-weight: 900;
+    text-decoration: none;
+}
+.nav li a:hover{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+#side-btn{
+    border: 1px solid white;
+    border-radius: 5px;
+}
+#covid{
+    text-align: right;
+}

@@ -1,0 +1,9 @@
+.slider h3{
+    z-index: 99999;
+    color: black;
+    position: relative;
+
+}
+.slider a{
+    text-decoration: none;
+}

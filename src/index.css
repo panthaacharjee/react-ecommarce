@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+
+@import url("./Components/Header/Header/Header.css");
+@import url("./Components/Header/Nav/Navbar.css");
+@import url("./Components/Slider/Slider.css");
+@import url("./Components/Products/Product.css");
+@import url("./Components/ProductDesc/ProductDesc.css");
+@import url("./Components/AddToCart/Cart.css");
+@import url("./Components/Register/Register.css");
+@import url("./Components/Profile/Profile.css");

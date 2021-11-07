@@ -1,0 +1,19 @@
+.form{
+    padding: 180px 0px 50px 0px;
+    display: flex;
+}
+.form-label{
+    border: 3px solid rgb(3, 37, 131);
+    padding: 50px 80px;
+    margin: 0px auto;
+    border-radius: 8px;
+    transition: 750ms;
+
+}
+.form-label:hover{
+    background-color: rgb(3, 37, 131);
+    color: white;
+}
+.notification{
+    margin-top: 120px ;
+}
